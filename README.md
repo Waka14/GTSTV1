@@ -1,2 +1,2 @@
 # GTSTV1
- learning of networking, programming, security
+ learning of networking, programming, cyber security
