@@ -51,6 +51,9 @@
 ---                              
 ![click to see an image](image.png)
 
+- [[image.png]]
+
+---
 ## **Kali Linux**
 - is a Debian-Linux distribution designed for *digital forensics* & *Penetration testing*.
     a. Desktop Environment = **XFCE**
