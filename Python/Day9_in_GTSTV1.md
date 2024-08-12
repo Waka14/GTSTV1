@@ -144,9 +144,7 @@ print(numbers(2,3))     # Output:> 5
 ## Function takers function
 
 - Filter, map & reduce takes a function as an argument.
-
-
-
+![alt text](image-25.png)
 
 ### Filter Function
 
@@ -175,8 +173,7 @@ print(evens)        # Output:> [2,6,8,4,6,2]
 ### Map function
 
 - Used to do some operations on Sequences.
-
-
+![alt text](image-26.png)
 
 ```python
 # Function
